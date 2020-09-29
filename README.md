@@ -5,6 +5,7 @@
 <p align="left" font-size="16px">
   Due to the coronavirus pandemic, many educational institutions were forced to migrate to distance learning.
   <br/>
+  <br/>
   Thinking about it, the Rocketseat teaching platform, once again decided to surprise and in the second edition of #NLW - Next Level Week, we developed a teaching platform for       students to look for teachers for private education, soon also teachers register on this platform.
 </p>
 
