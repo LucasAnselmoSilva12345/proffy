@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
 # Proffy - APP
 <br/>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50803602036/in/dateposted-public/" title="mobile"><img src="https://live.staticflickr.com/65535/50803602036_633020fd1e_z.jpg" width="311" height="640" alt="mobile"></a>
