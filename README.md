@@ -32,7 +32,6 @@
 <br/>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50803669237/in/dateposted-public/" title="cadastro1"><img src="https://live.staticflickr.com/65535/50803669237_1262e8fd23_z.jpg" width="640" height="361" alt="cadastro1"></a>
-<br/>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50802808298/in/dateposted-public/" title="cadastro2"><img src="https://live.staticflickr.com/65535/50802808298_675c378c4a_z.jpg" width="640" height="361" alt="cadastro2"></a>
 <br/>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50803556776/in/dateposted-public/" title="search_cadastrados"><img src="https://live.staticflickr.com/65535/50803556776_54e724646f_z.jpg" width="640" height="361" alt="search_cadastrados"></a>
