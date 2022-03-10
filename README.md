@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-# Proffy
+# Proffy - API
 
 <p align="left" font-size="16px">
   Due to the coronavirus pandemic, many educational institutions were forced to migrate to distance learning.
