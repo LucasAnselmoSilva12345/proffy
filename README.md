@@ -1,7 +1,7 @@
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50802808258/in/dateposted-public/" title="Home"><img src="https://live.staticflickr.com/65535/50802808258_6cf4b10e34_c.jpg" width="800" height="451" alt="Home"></a>
 <br/>
 
-# Proffy
+# Proffy - Front-end
 
 <p align="left" font-size="16px">
   Due to the coronavirus pandemic, many educational institutions were forced to migrate to distance learning.
